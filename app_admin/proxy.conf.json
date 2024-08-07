@@ -1,0 +1,9 @@
+{
+    "/api": {
+      "target": "http://localhost:4200", // Your backend server
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
+  
